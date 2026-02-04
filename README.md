@@ -16,14 +16,15 @@ It uses a structured, multi-agent workflow to ensure content accuracy, quality c
 
 ---
 
-## Technologies Used
+## Tools & Technologies Used
 
-- Python
-- LangGraph (agentic workflow orchestration)
-- Streamlit (web application interface)
-- Groq LLM (LLaMA-based model)
-- Tavily API (web research)
-- ReportLab (PDF generation)
+- **Python** – Core programming language
+- **LangGraph** – Agentic workflow orchestration and state management
+- **Streamlit** – Web-based user interface for interaction
+- **Groq LLM (LLaMA-based model)** – Content generation and reasoning
+- **Tavily API** – Real-time web research and source gathering
+- **ReportLab** – Professional PDF generation
+
 
 ---
 
